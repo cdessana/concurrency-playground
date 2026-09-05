@@ -54,7 +54,7 @@ To compile the codebase and run the stress tests locally, ensure you have **Java
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/concurrency-playground.git
+git clone https://github.com/cdessana/concurrency-playground.git
 cd concurrency-playground
 ```
 
